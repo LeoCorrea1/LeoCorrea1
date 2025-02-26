@@ -8,7 +8,7 @@
 Computer Science student at Universidade Franciscana (UFN), Santa Maria - Brazil. Learning object-oriented programming with Java and also C++. All my subjects are in my profile!
 
 ## Featured Projects
-- [Programa-o-Orientada-a-Objetos](https://github.com/LeoCorrea1/Programa-o-Orientada-a-Objetos):Repository with exercises and projects in Java.
+- [Programa-o-Orientada-a-Objetos](https://github.com/LeoCorrea1/Programa-o-Orientada-a-Objetos) : Repository with exercises and projects in Java.
 
 ## Subjects
 - **Object-Oriented Programming**
