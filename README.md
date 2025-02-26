@@ -3,7 +3,8 @@
 ![Java](https://img.shields.io/badge/Java-Learning-007396?style=flat-square&logo=java&logoColor=white&labelColor=black)
 ![C++](https://img.shields.io/badge/C++-Learning-blue?style=flat-square&logo=cplusplus&logoColor=white&labelColor=black)
 
-  [![UFN](https://img.shields.io/badge/UFN-Student-green)](https://www.ufn.edu.br/)
+ ![UFN](https://img.shields.io/badge/UFN-Student-green?style=flat-square&logo=university&logoColor=white&labelColor=black)
+](https://www.ufn.edu.br/)
 
 ## About me
 Computer Science student at Universidade Franciscana (UFN), Santa Maria - Brazil. Learning object-oriented programming with Java and also C++. All my subjects are in my profile!
