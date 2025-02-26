@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hello, I am Leonardo Correa!
 
-<!--
-**LeoCorrea1/LeoCorrea1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Java](https://img.shields.io/badge/Java-Learning-007396)](https://github.com/LeoCorrea1/Programa-o-Orientada-a-Objetos)
+[![C++](https://img.shields.io/badge/C++-Learning-blue)](https://github.com/LeoCorrea1)
+[![UFN](https://img.shields.io/badge/UFN-Student-green)](https://www.ufn.edu.br/)
 
-Here are some ideas to get you started:
+## About me
+Computer Science student at Universidade Franciscana (UFN), Santa Maria - Brazil. Learning object-oriented programming with Java and also C++. All my subjects are in my profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- [Programa-o-Orientada-a-Objetos](https://github.com/LeoCorrea1/Programa-o-Orientada-a-Objetos):Repository with exercises and projects in Java.
+
+## Subjects
+- **Object-Oriented Programming**
+- **Data Structures**
+- **Algorithms**
+- **Databases**
+- **Software Engineering**
+- **Artificial Intelligence**
+- **Computer Networks**
+- **Operating Systems**
+
+## Contact
+- [GitHub](https://github.com/LeoCorrea1)
